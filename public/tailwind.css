@@ -1,0 +1,31 @@
+@tailwind base;
+
+body {
+  color: #222;
+}
+h1 {
+  @apply text-6xl;
+  @apply font-bold;
+  @apply leading-tight; 
+  font-size: 70px;
+  line-height: 1.1;
+}
+
+h2, blockquote {
+  font-size: 36px;
+  @apply font-bold;
+  @apply mt-24;
+  margin-top: 36px;
+}
+p {
+  margin-top: 36px;
+  font-size: 22px;
+  line-height: 1.8;
+}
+
+blockquote {
+  @apply italic;
+}
+
+@tailwind components;
+@tailwind utilities;
