@@ -7,24 +7,28 @@ h1 {
   @apply text-6xl;
   @apply font-bold;
   @apply leading-tight; 
-  font-size: 70px;
   line-height: 1.1;
 }
 
 h2, blockquote {
-  font-size: 36px;
   @apply font-bold;
-  @apply mt-24;
-  margin-top: 36px;
+  @apply mt-10;
+  @apply text-4xl;
 }
+
 p {
-  margin-top: 36px;
-  font-size: 22px;
+  @apply text-2xl;
+  @apply mt-10;
   line-height: 1.8;
 }
 
 blockquote {
   @apply italic;
+}
+
+h3 {
+  @apply text-3xl;
+  @apply font-bold;
 }
 
 @tailwind components;
