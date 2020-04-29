@@ -1,6 +1,6 @@
 <template>
   <div class="w-full">
-    <div class="inner-container pt-24 mx-auto">
+    <div class="inner-container pt-24 mx-auto max-w-4xl">
       <Home v-if="$page.frontmatter.layout === 'home'" />
     </div>
   </div>
@@ -19,11 +19,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-
-.inner-container {
-  max-width: 56rem;
-}
-
-</style>
