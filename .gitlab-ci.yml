@@ -1,6 +1,7 @@
 image: node:13.7.0
 
 pages:
+  stage: deploy
   cache:
     paths:
     - node_modules/
