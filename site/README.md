@@ -33,7 +33,7 @@ subtitle: A different future is possible
   <h2 class="text-center text-5xl mt-0">
     Endorsers
   </h2>
-  <p><strong class="font-medium">18</strong> endorsers so far</p>
+  <p><strong class="font-medium">27</strong> endorsers so far</p>
   <ul class="mt-10 text-xl">
     <li>
       Parham Shafti (For this World)
