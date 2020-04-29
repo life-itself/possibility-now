@@ -1,6 +1,6 @@
 <template>
   <div class="w-full">
-    <div class="inner-container pt-24 mx-auto max-w-4xl">
+    <div class="inner-container">
       <Home v-if="$page.frontmatter.layout === 'home'" />
     </div>
   </div>
