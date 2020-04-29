@@ -13,5 +13,13 @@ module.exports = {
     docsDir: "site",
     editLinks: true,
     smoothScroll: true,
-  }
+  },
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-102022428-4'
+      }
+    ]
+  ]
 };
