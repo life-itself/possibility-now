@@ -804,6 +804,11 @@
     postcss "^7.0.14"
     purgecss "^1.4.0"
 
+"@limdongjin/vuepress-plugin-simple-seo@^1.0.4-alpha.5":
+  version "1.0.4-alpha.5"
+  resolved "https://registry.yarnpkg.com/@limdongjin/vuepress-plugin-simple-seo/-/vuepress-plugin-simple-seo-1.0.4-alpha.5.tgz#d97b8d841ac5e1b26c19dc9deb966a380bd3cbe8"
+  integrity sha512-p0uyWSsQ154D7PIIynTq8DHJWO6og+cvJ2YZ6BnOlX6a9OhG/OOpo6oOoN1PPPo5VR3hcIroChxo0HGiSzIgwA==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
