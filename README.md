@@ -1,13 +1,19 @@
-Possibility Now
+# Possibility Now
 
-This uses tailwind as html/css framework.
+URL: https://possibilitynow.org/
+Techonologies Used:
 
-For local development:
+* TailwindCSS
+* Vuepress
+
+## Development
 
 ```
-npm start
+$ npm install
+$ npm start
 ```
 
 ## Deployment
 
-Deploys on gitlab. See `.gitlab-ci.yml`.
+Deploys on gitlab. See .gitlab-ci.yml.
+New commits into the master branch will be automatically deployed to GitLab Pages by a workflow.
