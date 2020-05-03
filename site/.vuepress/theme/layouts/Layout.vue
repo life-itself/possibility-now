@@ -1,7 +1,7 @@
 <template>
   <div class="w-full">
     <div class="inner-container">
-      <Home v-if="$page.frontmatter.layout === 'home'" />
+      <Home />
     </div>
   </div>
 </template>
