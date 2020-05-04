@@ -20,6 +20,7 @@
 <script>
 import Vue from "vue";
 import VueClipboard from 'vue-clipboard2';
+import { setDefault } from '../util';
 
 Vue.use(VueClipboard);
 
@@ -31,11 +32,14 @@ export default {
   },
   methods: {
      onCopy: function () {
-      document.getElementById('toBeCopied').innerHTML = "Copied!"
+      document.getElementById('toBeCopied').innerHTML = "Copied!",
+      setTimeout(setDefault, 3000)
+      
     },
     onError: function () {
       document.getElementById('toBeCopied').innerHTML = "Failed to copy text :("
-    }
+    },
+    setDefault,
   },
   computed: {
     data() {
