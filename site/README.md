@@ -20,9 +20,13 @@ subtitle: A different future is possible
     Endorse the declaration
   </h2>
   <p>Join the people that have already endorsed the declaration, and pledge your commitment to sustain possibility and imagine a different future.</p>
-  <p>To endorse just email us with subject "Endorse" &ndash; and let us know if you are happy for us to show your name.<br /><a href="mailto:possibilitynow@artearthtech.com?subject=Endorse%20Possibility%20Now&body=Show my name on the site: Yes [No]%0D%0A%0D%0A--Optional--%0D%0A%0D%0AOrganization: %0D%0AUrl: %0D%0AComment: " class="underline font-bold">possibilitynow@artearthtech.com</a></p>
+  <p>To endorse just fill out this form</p>
+<EndorseForm/>
 
-<h3 class="mt-24">An initiative of <a href="https://artearthtech.com/">Art / Earth / Tech</a></h3>
+<p class="pt-6"> or email us with subject "Endorse" &ndash; and let us know if you are happy for us to show your name.<br /><a href="mailto:possibilitynow@artearthtech.com?subject=Endorse%20Possibility%20Now&body=Show my name on the site: Yes [No]%0D%0A%0D%0A--Optional--%0D%0A%0D%0AOrganization: %0D%0AUrl: %0D%0AComment: " class="underline font-bold">possibilitynow@artearthtech.com</a></p>
+
+
+<h3 class="mt-20">An initiative of <a href="https://artearthtech.com/">Art / Earth / Tech</a></h3>
 <a href="https://artearthtech.com/"><img src="https://old.artearthtech.com/images/aet-logo-02.svg" alt="logo" class="w-32 mx-auto mt-10" /></a>
 
 <h3 class="mt-24">Contributors</h3>
