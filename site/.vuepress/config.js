@@ -38,8 +38,8 @@ module.exports = {
     [
       '@limdongjin/vuepress-plugin-simple-seo', 
       {
-      default_image: 'https://possibilitynow.org/img/possibilitynow.png',
-      root_url: 'https://possibilitynow.org/',
+      default_image: '/img/possibilitynow.png',
+      root_url: 'https://possibilitynow.org',
       default_site_name: 'Possibility Now! A different future is possible.',
       description: "In this moment of crisis, a space of possibility is opening up. Let's sustain and grow it!"
       }
