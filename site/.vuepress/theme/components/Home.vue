@@ -1,7 +1,7 @@
 <template>
   <div class="">
-    <h1 class=""> {{ $page.frontmatter.title }} </h1>
-    <h2 class=""> {{ $page.frontmatter.subtitle }} </h2>
+    <h1 class="px-4"> {{ $page.frontmatter.title }} </h1>
+    <h2 class="px-4"> {{ $page.frontmatter.subtitle }} </h2>
     <Content />
   </div>
 </template>
