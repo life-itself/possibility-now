@@ -10,7 +10,8 @@ module.exports = {
   description: "In this moment of crisis, a space of possibility is opening up. Let's sustain and grow it!",
   head: [
     ['link', { rel: "icon", href: "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌻</text></svg>"}],
-    ['link', { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,500,700&display=swap" }]
+    ['link', { rel: "stylesheet", href: "https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,500,700&display=swap" }],
+    ['link', {rel: "stylesheet", href: "https://sibforms.com/forms/end-form/build/sib-styles.css"}]
   ],
   dest: "public",
   postcss: {
