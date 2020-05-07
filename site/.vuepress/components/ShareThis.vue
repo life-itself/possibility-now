@@ -1,5 +1,5 @@
 <template>
-  <div id="share-section" class="text-center">
+  <div id="share-section" class="text-center pt-20">
     <img class="share-icon mx-auto pb-10" src="/img/share.svg"/>
     <h3>Share Possibility Now!</h3>
       <div class="container text-2xl py-8">
