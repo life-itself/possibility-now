@@ -30,6 +30,8 @@ subtitle: A different future is possible
 
 <h3 class="mt-24">Contributors</h3>
 <p class="mt-10">Rufus Pollock, Sylvie Barbier, Alastair Thompson, Jacques Chlopczyk, Liam Kavanagh, Katrien Franken, Georgia Crowther, Petronella Tyson, Pia Waugh</p>
+
+  <ShareThis />
 </section>
 
 <section class="text-center mt-16 p-24">
@@ -58,4 +60,3 @@ subtitle: A different future is possible
     </li>
   </ul>
 </section>
-
