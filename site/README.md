@@ -12,9 +12,9 @@ subtitle: A different future is possible
   <p>We can begin with solidarity. What has trapped us for too long is our resignation born of isolation. These are collective challenges. We intuitively know that a bigger future is something forged with others, not built alone.</p>
   <p>Let us start here and now. By standing up and saying:</p>
 
-  <blockquote class="ml-12">
+  <p class="blockquote italic ml-12">
     Yes, I stand for possibility. I stand for a different future, for keeping open the door that has cracked open in this crisis, for keeping alive this conversation not only now but for as long as it takes for us to learn to dream again.
-  </blockquote>
+  </p>
 </section>
 
 <section class="endorse text-center mt-16 py-20 md:p-24">

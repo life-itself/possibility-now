@@ -28,6 +28,9 @@ module.exports = {
     docsDir: "site",
     editLinks: true,
     smoothScroll: true,
+    nav: [
+      { text: "Futures", link: "/futures/" },
+    ]
   },
   plugins: [
     [

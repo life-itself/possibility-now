@@ -33,3 +33,9 @@ export function submitData(e) {
     window.grecaptcha && s ? (window.grecaptcha.reset(), window.grecaptcha.execute()) : M(D)
   }
 }
+
+export function resolveNavLinkItem(linkItem) {
+  return Object.assign(linkItem, {
+    type: linkItem.items && linkItem.items.length ? 'links' : 'link'
+  })
+}
