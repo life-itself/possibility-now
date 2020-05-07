@@ -17,8 +17,8 @@ subtitle: A different future is possible
   </blockquote>
 </section>
 
-<section class="endorse text-center mt-16 py-20 md:p-24 px-4">
-  <h2 class="text-center text-5xl mt-0">
+<section class="endorse text-center mt-16 py-20 md:p-24">
+  <h2 class="text-center text-5xl">
     Endorse the declaration
   </h2>
   <p>Join the people that have already endorsed the declaration, and pledge your commitment to sustain possibility and imagine a different future.</p>
@@ -38,7 +38,7 @@ subtitle: A different future is possible
 <ShareThis />
 </section>
 
-<section class="text-center mt-16 p-24">
+<section class="text-center mt-16 md:p-24">
   <h2 class="text-center text-5xl mt-0">
     Endorsers
   </h2>
