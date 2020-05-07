@@ -1,8 +1,8 @@
 <template>
   <div class="">
-    <h1 class="px-4 md:px-0 md:pt-8"> {{ $page.frontmatter.title }} </h1>
-    <h2 class="px-4 md:px-0"> {{ $page.frontmatter.subtitle }} </h2>
-    <Content class="px-4 md:px-0" />
+    <h1 class="px-2 md:px-0 md:pt-8"> {{ $page.frontmatter.title }} </h1>
+    <h2 class="px-2 md:px-0"> {{ $page.frontmatter.subtitle }} </h2>
+    <Content class="" />
   </div>
 </template>
 

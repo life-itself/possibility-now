@@ -4,7 +4,7 @@ title: Possibility Now
 subtitle: A different future is possible
 ---
 
-<section class="px-4 md:px-0">
+<section class="px-2 md:px-0">
   <p>In this moment of crisis, a space of possibility is opening up. Despite all its challenges, COVID-19 could also be a turning point.</p>
   <p>The default future is bailouts and a few small adjustments to the status quo. But a different future is possible.</p>
   <p>Right now, we do not need to know that future, let alone agree on it. This is a moment for open-minded exploration, for us to rebuild the muscle of our imagination, to sustain our capacity for hope.</p>
