@@ -1,13 +1,13 @@
 <template>
-  <div id="share-section" class="text-center">
+  <div id="share-section" class="text-center pt-20">
     <img src="/img/share.svg" class="share-icon mx-auto pb-10"/>
     <h3>Share Possibility Now!</h3>
     <div class="container text-2xl py-8">
-      <a href="http://twitter.com/intent/tweet?text=A+different+future+is+possible%21;url=https%3A%2F%2Fwww.possibilitynow.org" target="_blank" rel="nofollow noopener" class="px-6 hover:underline">Twitter</a>
+      <a href="http://twitter.com/intent/tweet?text=A+different+future+is+possible%21;url=https%3A%2F%2Fwww.possibilitynow.org" target="_blank" rel="nofollow noopener" class="px-6 underline">Twitter</a>
       <a href="#share-section" v-clipboard:copy="thingToCopy" v-clipboard:success="onCopy" v-clipboard:error="onError">
-        <span id="toBeCopied" class="hover:underline"> Copy to Clipboard </span>
+        <span id="toBeCopied" class="underline"> Copy to Clipboard </span>
       </a>
-      <a href="mailto:?body=https%3A%2F%2Fwww.possibilitynow.org" target="_blank" rel="nofollow noopener" class="px-6 hover:underline">Email</a>
+      <a href="mailto:?body=https%3A%2F%2Fwww.possibilitynow.org" target="_blank" rel="nofollow noopener" class="px-6 underline">Email</a>
     </div>
   </div>
 </template>
@@ -43,3 +43,11 @@ export default {
   }
 };
 </script>
+
+<style>
+
+.share-icon {
+  width: 60px;
+}
+
+</style>
