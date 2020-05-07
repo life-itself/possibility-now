@@ -43,15 +43,3 @@ export default {
   }
 };
 </script>
-
-<style>
-
-.share-icon {
-  width: 60px;
-}
-
-.share-link:hover {
-  text-decoration: underline;
-}
-
-</style>
