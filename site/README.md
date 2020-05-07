@@ -4,7 +4,7 @@ title: Possibility Now
 subtitle: A different future is possible
 ---
 
-<section class="px-4">
+<section class="px-4 md:px-0">
   <p>In this moment of crisis, a space of possibility is opening up. Despite all its challenges, COVID-19 could also be a turning point.</p>
   <p>The default future is bailouts and a few small adjustments to the status quo. But a different future is possible.</p>
   <p>Right now, we do not need to know that future, let alone agree on it. This is a moment for open-minded exploration, for us to rebuild the muscle of our imagination, to sustain our capacity for hope.</p>
@@ -24,7 +24,7 @@ subtitle: A different future is possible
   <p>Join the people that have already endorsed the declaration, and pledge your commitment to sustain possibility and imagine a different future.</p>
   <p>To endorse just fill out this form</p>
   
-<iframe width="640" height="825" src="https://1ebb0834.sibforms.com/serve/MUIEAOFdsOKKu4gAAoUn74J4Istcd03Kt_T-eo8mgHBfY_VMZoe76Bcm4Yy_Eu_Lw9-YbSIVO84yCHD_szXFZpObJU1qLGLAItw7Yq_chg-Rigr-uvsCbh_Yf2QnT4vc2Ol0lRQgTo1DyqCMUqkQRboBTJc-OzjiWXZKf3vry3pn1njeRWyHg6XPdPXla_u86jK8KvY7O0GoLOMX" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;min-height:825px;"></iframe>
+<iframe width="740" height="825" src="https://1ebb0834.sibforms.com/serve/MUIEAOFdsOKKu4gAAoUn74J4Istcd03Kt_T-eo8mgHBfY_VMZoe76Bcm4Yy_Eu_Lw9-YbSIVO84yCHD_szXFZpObJU1qLGLAItw7Yq_chg-Rigr-uvsCbh_Yf2QnT4vc2Ol0lRQgTo1DyqCMUqkQRboBTJc-OzjiWXZKf3vry3pn1njeRWyHg6XPdPXla_u86jK8KvY7O0GoLOMX" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;min-height:825px;"></iframe>
 <!-- <EndorseForm/> -->
 
 <p class=""> or send us an email us with subject "Endorse" &ndash; and let us know if you are happy for us to show your name.<br /><a href="mailto:possibilitynow@artearthtech.com?subject=Endorse%20Possibility%20Now&body=Show my name on the site: Yes [No]%0D%0A%0D%0A--Optional--%0D%0A%0D%0AOrganization: %0D%0AUrl: %0D%0AComment: " class="underline break-words font-bold">possibilitynow@artearthtech.com</a></p>
