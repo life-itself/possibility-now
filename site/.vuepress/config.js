@@ -24,7 +24,7 @@ module.exports = {
     ]
   },
   themeConfig: {
-    logo: "https://old.artearthtech.com/images/aet-logo-02.svg",
+    logo: "/img/possibilitynow-logo.svg",
     docsDir: "site",
     editLinks: true,
     smoothScroll: true,
