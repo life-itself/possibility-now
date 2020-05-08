@@ -27,11 +27,6 @@
           'max-width': linksWrapMaxWidth + 'px'
         } : {}"
       >
-        <AlgoliaSearchBox
-          v-if="isAlgoliaSearch"
-          :options="algolia"
-        />
-        <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false"/>
         <NavLinks class="can-hide"/>
       </div>
     </div>
