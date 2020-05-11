@@ -3,6 +3,7 @@
     <Navbar class="nav-bar" v-if="shouldShowNavbar" />
     <div class="inner-container pb-16">
       <Home />
+      <Directories v-if="$page.frontmatter.layout === 'directories'" />
     </div>
   </div>
 </template>
@@ -10,11 +11,13 @@
 <script>
 import Home from "../components/Home.vue";
 import Navbar from "../components/Navbar.vue";
+import Directories from "../components/Directories.vue";
 
 export default {
   components: {
     Home,
-    Navbar
+    Navbar,
+    Directories
   },
   data() {
     return {

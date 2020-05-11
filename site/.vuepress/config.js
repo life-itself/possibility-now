@@ -30,6 +30,7 @@ module.exports = {
     smoothScroll: true,
     nav: [
       { text: "Futures", link: "/futures/" },
+      { text: "Directories", link: "/directories/" }
     ]
   },
   plugins: [
