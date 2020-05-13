@@ -6,7 +6,7 @@
       <li class="" v-if="items.attributes.SHOW_MY_NAME === true" v-for="items in items.contacts">
         <div class="flex justify-between"> 
           <p class="inline-block text-xl"> {{ items.attributes.NAME }} </p>
-          <p class="inline-block text-xl"> {{ items.email }} </p>
+          <p class="inline-block text-xl"> {{ items.attributes.AFFILIATION }} </p>
         </div>
         <hr>
       </li>
