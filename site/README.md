@@ -23,41 +23,17 @@ subtitle: A different future is possible
   </h2>
   <p>Join the people that have already endorsed the declaration, and pledge your commitment to sustain possibility and imagine a different future.</p>
   <p>To endorse just fill out the form below.</p>
-  
-<iframe width="740" height="825" src="https://1ebb0834.sibforms.com/serve/MUIEAOFdsOKKu4gAAoUn74J4Istcd03Kt_T-eo8mgHBfY_VMZoe76Bcm4Yy_Eu_Lw9-YbSIVO84yCHD_szXFZpObJU1qLGLAItw7Yq_chg-Rigr-uvsCbh_Yf2QnT4vc2Ol0lRQgTo1DyqCMUqkQRboBTJc-OzjiWXZKf3vry3pn1njeRWyHg6XPdPXla_u86jK8KvY7O0GoLOMX" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;min-height:825px;"></iframe>
+    
+  <iframe width="740" height="825" src="https://1ebb0834.sibforms.com/serve/MUIEAOFdsOKKu4gAAoUn74J4Istcd03Kt_T-eo8mgHBfY_VMZoe76Bcm4Yy_Eu_Lw9-YbSIVO84yCHD_szXFZpObJU1qLGLAItw7Yq_chg-Rigr-uvsCbh_Yf2QnT4vc2Ol0lRQgTo1DyqCMUqkQRboBTJc-OzjiWXZKf3vry3pn1njeRWyHg6XPdPXla_u86jK8KvY7O0GoLOMX" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;min-height:825px;"></iframe>
 
-<h3 class="mt-10">An initiative of <a href="https://artearthtech.com/">Art / Earth / Tech</a></h3>
-<a href="https://artearthtech.com/"><img src="https://old.artearthtech.com/images/aet-logo-02.svg" alt="logo" class="w-32 mx-auto mt-10" /></a>
+  <h3 class="mt-10">An initiative of <a href="https://artearthtech.com/">Art / Earth / Tech</a></h3>
+  <a href="https://artearthtech.com/"><img src="https://old.artearthtech.com/images/aet-logo-02.svg" alt="logo" class="w-32 mx-auto mt-10" /></a>
 
-<h3 class="mt-24">Contributors</h3>
-<p class="mt-10">Rufus Pollock, Sylvie Barbier, Alastair Thompson, Jacques Chlopczyk, Liam Kavanagh, Katrien Franken, Georgia Crowther, Petronella Tyson, Pia Waugh</p>
-
-<ShareThis />
+  <h3 class="mt-24">Contributors</h3>
+  <p class="mt-10">Rufus Pollock, Sylvie Barbier, Alastair Thompson, Jacques Chlopczyk, Liam Kavanagh, Katrien Franken, Georgia Crowther, Petronella Tyson, Pia Waugh</p>
+  <ShareThis />
 </section>
 
-<section class="text-center mt-16 md:p-24">
-  <h2 class="text-center text-5xl mt-0">
-    Endorsers
-  </h2>
-  <p><strong class="font-medium">27</strong> endorsers so far</p>
-  <ul class="mt-10 text-xl">
-    <li>
-      Parham Shafti (For this World)
-    </li>
-    <li>
-      Phoebe Tickell
-    </li>
-    <li>
-      Tom Manwell
-    </li>
-    <li>
-      Richard Millington
-    </li>
-    <li>
-      Justin
-    </li>
-    <li>
-      Miles Thompson
-    </li>
-  </ul>
+<section class="pt-20 px-6 lg:px-0">
+  <Endorsers />
 </section>
