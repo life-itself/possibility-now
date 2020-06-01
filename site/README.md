@@ -24,7 +24,7 @@ subtitle: A different future is possible
   <p>Join the people that have already endorsed the declaration, and pledge your commitment to sustain possibility and imagine a different future.</p>
   <p>To endorse just fill out the form below.</p>
     
-  <iframe width="740" height="825" src="https://1ebb0834.sibforms.com/serve/MUIEAOFdsOKKu4gAAoUn74J4Istcd03Kt_T-eo8mgHBfY_VMZoe76Bcm4Yy_Eu_Lw9-YbSIVO84yCHD_szXFZpObJU1qLGLAItw7Yq_chg-Rigr-uvsCbh_Yf2QnT4vc2Ol0lRQgTo1DyqCMUqkQRboBTJc-OzjiWXZKf3vry3pn1njeRWyHg6XPdPXla_u86jK8KvY7O0GoLOMX" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;min-height:825px;"></iframe>
+  <EndorseForm/>
 
   <h3 class="mt-10">An initiative of <a href="https://artearthtech.com/">Art / Earth / Tech</a></h3>
   <a href="https://artearthtech.com/"><img src="https://old.artearthtech.com/images/aet-logo-02.svg" alt="logo" class="w-32 mx-auto mt-10" /></a>

@@ -17,196 +17,122 @@
           <span class="sib-form-message-panel__inner-text"> Your subscription has been successful.</span>
         </div>
       </div>
-  <div id="sib-container" class="sib-container--large sib-container--vertical">
-    <form id="sib-form" method="POST" action="" data-type="subscription">
-      <div class="inner-container pt-12 text-left">
-        <div class="pb-3 sib-input sib-form-block">
-          <div class="form__entry entry_block">
-            <div class="form__label-row">
-              <label class="entry__label">
-                <h3 class="text-2xl pb-2" required data-required="*"> Email address <small class="text-red-600">*</small> </h3>
-              </label>
-            <div class="entry__field">
-              <input type="text" class="input input-boxes" value="" data-required="true" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="Email" required>
-            </div>
-            </div>
-            <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;"></label>
-            <label class="entry__specification">
-            <!-- Provide your email address to endorse. For example <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="81e0e3e2c1f9f8fbafe2eeec">[email&#160;protected]</a> -->
-              <div class="helping-text pt-1">Provide your email address to endorse. For example abc@xyz.com</div>
-            </label>
-          </div>
-        </div>
-        <div class="pb-3 sib-input sib-form-block">
-          <div class="form__entry entry_block">
-            <div class="form__label-row">
-              <label class="entry__label">
-                <h3 class="text-2xl pb-2" required data-required="*"> Name <small class="text-red-600">*</small> </h3>
-              </label>
-            <div class="entry__field">
-              <input type="text" class="input input-boxes" value="" data-required="true" id="NAME" name="NAME" autocomplete="off" placeholder="Name" required>
-            </div>
-            </div>
-            <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;"></label>
-            <label class="entry__specification">
-            <!-- Provide your email address to endorse. For example <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="81e0e3e2c1f9f8fbafe2eeec">[email&#160;protected]</a> -->
-              <div class="helping-text pt-1">Provide your name to endorse. For example Max Examplemann.</div>
-            </label>
-          </div>
-        </div>
-        <div class="pb-3 sib-input sib-form-block">
-          <div class="form__entry entry_block">
-            <div class="form__label-row">
-              <label class="entry__label">
-                <h3 class="text-2xl pb-2" required data-required="*"> Affiliation <small class="text-red-600">*</small> </h3>
-              </label>
-            <div class="entry__field">
-              <input type="text" class="input input-boxes" value="" data-required="true" id="AFFILIATION" name="AFFILIATION" autocomplete="off" placeholder="Affiliation" required>
-            </div>
-            </div>
-            <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;"></label>
-            <label class="entry__specification">
-            <!-- Provide your email address to endorse. For example <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="81e0e3e2c1f9f8fbafe2eeec">[email&#160;protected]</a> -->
-              <div class="helping-text pt-1">Provide your company or organization name to endorse.</div>
-            </label>
-          </div>
-        </div>
-
-        <div class="py-3 sib-optin sib-form-block" >
-          <div class="form__entry entry_mcq">
-            <div class="form__label-row ">
-              <label class="entry__label" for="SHOW_MY_NAME"><h3 class="text-xl pb-3" >Show my name on the list of endorsers</h3></label>
-               <div class="entry__choice">
-                  <label class="label-check"> 
-                    <input type="checkbox" value="1" name="SHOW_MY_NAME" id="SHOW_MY_NAME" class="input_replaced">  
-                    <span class="checkbox checkmark checkbox_tick_positive"></span>
-                    <span><p>Yes</p></span>
-                  </label>
+    <div id="sib-container" class="sib-container--large sib-container--vertical">
+      <form id="sib-form" method="POST" action="https://1ebb0834.sibforms.com/serve/MUIEADUu3Yn0smKZDf7w65IQW8SGHdXd4LMcb_LCVgdNpHGjrcfFK3l3MhrBwmeA5sduAew_gUDWqjEBYga60_LOwkwt4EWuDY1niGTe9HcXiN7x71GkfxVmTAIWTjANjsyJHigjZoVTlyJz7OP1Bnugx0Iw8dztkQ2r4mu0WJiWUBb-HabvdYlrcLQpCIjDxi1aPtH4uSmJnubv"
+        data-type="subscription">
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <label class="entry__label"> 
+                  <h3 class="text-2xl" required data-required="*"> Email address <small class="text-red-600">*</small></h3>
+                </label>
+                <div class="entry__field">
+                  <input class="input input-boxes" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="Your email" data-required="true" required />
                 </div>
               </div>
-             <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">
-            </label>
-            <label class="entry__specification">
-              <div class="helping-text"> We'll show your name and affiliation on the list of endorsers</div>
-            </label>  
+              <label class="entry__error entry__error--primary errors">
+              </label>
+              <label class="entry__specification">
+                <div class="helping-text pt-1">This is used only for purposes of endorsement and to send updates if you opt-in to that below 😄 </div>
+              </label>
+            </div>
           </div>
         </div>
-
-        <div class="py-3 sib-optin sib-form-block" >
-          <div class="form__entry entry_mcq">
-            <div class="form__label-row ">
-              <label class="entry__label" for="GET_UPDATES"><h3 class="text-xl pb-3" >I’d like to hear about upcoming initiatives</h3></label>
-               <div class="entry__choice">
-                  <label class="label-check"> 
-                    <input type="checkbox" value="1" name="GET_UPDATES" id="GET_UPDATES" class="input_replaced">  
-                    <span class="checkbox checkmark checkbox_tick_positive"></span>
-                    <span><p>Yes</p></span>
-                  </label>
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <label class="entry__label"> 
+                  <h3 class="text-2xl" required data-required="*"> Name <small class="text-red-600">*</small> </h3>
+                </label>
+                <div class="entry__field">
+                  <input class="input input-boxes" maxlength="200" type="text" id="NAME" name="NAME" autocomplete="off" placeholder="Your Name" data-required="true" required />
                 </div>
               </div>
-             <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">
-            </label>
-            <label class="entry__specification">
-              <div class="helping-text"> Find out about upcoming initiatives such as curated conversations and imagined futures</div>
-            </label>  
+              <label class="entry__error entry__error--primary errors">
+              </label>
+              <label class="entry__specification"> 
+                <div class="helping-text pt-1">Your Full Name.</div>
+              </label>
+            </div>
           </div>
         </div>
-
-        <div class="sib-form-block">
-          <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#3E4857; border-radius:3px; border-width:0px;" form="sib-form" type="submit">
-            <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
-              <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"/>
-            </svg> Endorse the Declaration
-          </button>
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <label class="entry__label" for="AFFILIATION"> 
+                  <h3 class="text-2xl"> Affiliation </h3> 
+                </label>
+                <div class="entry__field">
+                  <input class="input input-boxes" maxlength="200" type="text" id="AFFILIATION" name="AFFILIATION" autocomplete="off" placeholder="Your company or organization" />
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary">
+              </label>
+              <label class="entry__specification"> 
+                <div class="helping-text pt-1">Your company or organization. </div> 
+              </label>
+            </div>
+          </div>
         </div>
-                                  
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <label class="entry__label" for="SHOW_MY_NAME"> 
+                  <h3 class="text-xl" >Show my name on the list of endorsers</h3>
+                </label>
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="SHOW_MY_NAME" name="SHOW_MY_NAME" />
+                    <span class="checkbox checkbox_tick_positive"></span><p class="text-lg">Yes</p></label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary">
+              </label>
+              <label class="entry__specification helping-text">We'll show your name and affiliation on the list of endorsers </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <label class="entry__label" for="GET_UPDATES"> 
+                  <h3 class="text-xl">I’d like to hear about upcoming initiatives</h3>
+                </label>
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="GET_UPDATES" name="GET_UPDATES" />
+                    <span class="checkbox checkbox_tick_positive"></span><p class="text-lg">Yes</p></label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary">
+              </label>
+              <label class="entry__specification helping-text">Find out about upcoming initiatives such as curated conversations and imagined futures </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-form-block" style="text-align: left">
+            <button class="sib-form-block__button sib-form-block__button-with-loader endorse-button" form="sib-form" type="submit">
+              <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
+                <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
+                />
+              </svg>
+              Endorse the Declaration
+            </button>
+          </div>
+        </div>
         <input type="text" name="email_address_check" value="" class="input--hidden">
         <input type="hidden" name="locale" value="en">
-
-        <!-- <div class="py-3 sib-input sib-form-block">
-          <div class="form__entry entry_block">
-            <h3 class="text-2xl pb-2" required data-required="*"> Name <small class="text-red-600">*</small> </h3>
-            <input type="text" class="input-boxes" value="" placeholder="Name">
-            <div class="helping-text pt-1">Provide your full name to endorse. For example Max Exampleman. </div>
-          </div>
-        </div>
-        <div class="py-3 sib-input sib-form-block">
-          <div class="form__entry entry_block">
-            <h3 class="text-2xl pb-2"> Affiliation </h3>
-            <input type="text" class="input-boxes" value="" placeholder="Affiliation">
-            <div class="helping-text pt-1">Provide your company or organization name to endorse.</div>
-          </div>
-        </div>		
-        <div class="py-3 sib-optin sib-form-block">
-          <div class="form__entry entry_mcq">
-            <div class="form__label-row">
-              <h3 class="text-xl pb-3" >Show my name on the list of endorsers</h3>
-              <label class="label-check">
-                <input type="checkbox" name="checkbox" value="I'd like you to show my name on the list of endorsers." class="">  
-                <span class="checkmark"></span>
-                <span class="">Yes</span>
-              </label> 
-            </div>
-            <div class="helping-text"> We'll show your name and affiliation on the list of endorsers</div>
-          </div>
-        </div>
-        <div class="py-3 sib-optin sib-form-block">
-          <div class="form__entry entry_mcq">
-            <div class="form__label-row">
-              <h3 class="text-xl pb-3">I'd like to hear about upcoming initiatives</h3>
-              <label class="label-check">
-                <input type="checkbox" name="checkbox" value="I'd like to hear about upcoming initiatives." class="">  
-                <span class="checkmark"></span>
-                <span class="">Yes</span>
-              </label> 
-            </div>
-            <div class="helping-text"> Find out about upcoming initiatives such as curated conversations and imagined futures </div>
-          </div>
-        </div>
-        <div class="pt-8">
-          <button class="sib-form-block__button sib-form-block__button-with-loader endorse-button md:px-8 px-6 py-4" form="sib-form" type="submit">
-            <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
-              <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"></path>
-            </svg>
-            Endorse the Declaration
-          </button> -->
-          <!-- <button class="sib-form-block__button sib-form-block__button-with-loader endorse-button md:px-8 px-6 py-4" form="sib-form" type="submit">
-            Endorse the Declaration
-          </button> -->
-        <input type="hidden" name="email_address_check" value="" class="input--hidden">
-        <input type="hidden" name="locale" value="en">
-        <input type="hidden" name="html_type" value="SendInBlue Endorse Form">
-      <script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/-wV2EAWEOTlEtZh4vNQtn3H1/recaptcha__en.js"></script>
-      <script type="text/javascript" src="https://sibforms.com/forms/end-form/build/main.js"></script>
-      <script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
-      <script data-cfasync="false" src="https://1ebb0834.sibforms.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-      </div>
-        </form>
-      </div>
+      </form>
     </div>
   </div>
+</div>
 </template>
-
-<script>
-import { SibForm } from '../theme/util'
-import { submitData } from '../theme/util'
-
-export default {
-	data() {
-    return {
-    }
-  },
-  methods: {
-		SibForm,
-		submitData
-  },
-  computed: {
-    data() {
-      return this.$page.frontmatter;
-    },
-  }
-}
-</script>
 
 <style>
 
@@ -231,7 +157,7 @@ export default {
 	white-space: pre-wrap;
 	font-size: 17px;
 	line-height: 1.5em;
-	color: #222;
+	color: #222!important;
 	min-height: 16px;
 	text-align: left;
 }
@@ -239,6 +165,26 @@ export default {
 h3 {
 	line-height: 1.5em;
 	min-height: 20px;
+}
+
+.errors {
+  font-size:16px; 
+  text-align:left; 
+  font-family: Helvetica, sans-serif; 
+  color:#661d1d; 
+  background-color:#ffeded; 
+  border-radius:3px; 
+  border-width:px; 
+  border-color:#ff4949;
+}
+
+.sib-form .entry__field {
+  border: none!important;
+}
+
+.sib-form .entry__field:focus-within {
+  box-shadow: 0 0 0 1px #ccc;
+  border-radius: 6px;
 }
 
 .input-boxes {
@@ -259,71 +205,6 @@ input.input-boxes {
 	line-height: 1.6!important;
 	font-size: 14px!important;
 	color: #222!important;
-}
-
-.label-check input {
-  opacity: 0;
-  cursor: pointer;
-  height: 0;
-  width: 0;
-}
-
-.checkmark {
-  position: absolute;
-  top: 1.5px;
-  left: 0;
-	border-radius: 3px;
-  height: 20px;
-  width: 20px;
-  background-color: transparent;
-	border: 1px solid #222;
-}
-
-.label-check {
-  display: block;
-  position: relative;
-  padding-left: 10px;
-  margin-bottom: 6px;
-  cursor: pointer;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-/* On mouse-over, add a grey background color */
-.label-check:hover input ~ .checkmark {
-  background-color: transparent;
-}
-
-/* When the checkbox is checked, add a blue background */
-.label-check input:checked ~ .checkmark {
-  background-color: transparent;
-}
-
-/* Create the checkmark/indicator (hidden when not checked) */
-.checkmark:after {
-  content: "";
-  position: absolute;
-  display: none;
-}
-
-/* Show the checkmark when checked */
-.label-check input:checked ~ .checkmark:after {
-  display: block;
-}
-
-/* Style the checkmark/indicator */
-.label-check .checkmark:after {
-  left: 5.5px;
-  top: 1.2px;
-  width: 8px;
-  height: 13px;
-  border: solid #222;
-  border-width: 0 3px 3px 0;
-  -webkit-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  transform: rotate(45deg);
 }
 
 .endorse-button {
