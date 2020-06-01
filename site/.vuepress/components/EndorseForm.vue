@@ -72,7 +72,7 @@
               <label class="entry__error entry__error--primary">
               </label>
               <label class="entry__specification"> 
-                <div class="helping-text pt-1">Your company or organization. </div> 
+                <div class="helping-text pt-1">Optional. </div> 
               </label>
             </div>
           </div>
