@@ -24,7 +24,7 @@ module.exports = {
     ]
   },
   themeConfig: {
-    logo: "/img/possibility-now-new-logo.svg",
+    logo: "/img/possibility-now-logo.svg",
     docsDir: "site",
     editLinks: true,
     smoothScroll: true,
